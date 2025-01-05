@@ -1,0 +1,6 @@
+git remote add gitlab https://gitlab.com/karabelnikau.a/innogitlabintern.git
+git remote add github https://github.com/Sayres11/innoGitIntern.git
+
+git push -uf gitlab main
+git push -uf github main
+
